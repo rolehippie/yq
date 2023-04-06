@@ -7,7 +7,7 @@
 # [![Readme Workflow](https://github.com/rolehippie/yq/actions/workflows/readme.yml/badge.svg)](https://github.com/rolehippie/yq/actions/workflows/readme.yml)
 # [![Galaxy Workflow](https://github.com/rolehippie/yq/actions/workflows/galaxy.yml/badge.svg)](https://github.com/rolehippie/yq/actions/workflows/galaxy.yml)
 # [![License: Apache-2.0](https://img.shields.io/github/license/rolehippie/yq)](https://github.com/rolehippie/yq/blob/master/LICENSE)
-# [![Ansible Role](https://img.shields.io/ansible/role/53365)](https://galaxy.ansible.com/rolehippie/yq)
+# [![Ansible Role](https://img.shields.io/ansible/role/61891)](https://galaxy.ansible.com/rolehippie/yq)
 #
 # Ansible role to install yq the jq yaml counterpart.
 #
