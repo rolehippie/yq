@@ -1,0 +1,30 @@
+# Standards: 1.2
+---
+- name: Check existing install
+  register: yq_version_check
+  failed_when: False
+  changed_when: False
+  check_mode: False
+  shell: /usr/bin/yq --version 2>&1
+  tags:
+    - yq
+
+- name: Fact version change
+  set_fact:
+    yq_version_changed: "{{ yq_version_check.rc != 0 or (yq_version_check.stdout_lines is defined and yq_version not in yq_version_check.stdout_lines[0]) | bool }}"
+  tags:
+    - yq
+
+- name: Download release binary
+  when:
+    - yq_version_changed
+  get_url:
+    url: "{{ yq_download }}"
+    dest: /usr/bin/yq
+    owner: root
+    group: root
+    mode: o=rwx,g=rx,o=rx
+  tags:
+    - yq
+
+...

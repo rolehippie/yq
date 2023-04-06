@@ -1,0 +1,13 @@
+# Standards: 1.2
+---
+# @var yq_version:description: Version of the release to install
+# renovate: datasource=github-releases depName=mikefarah/yq
+yq_version: 4.33.2
+
+# @var yq_arch:description: Architecture of the static binary
+yq_arch: "{{ 'arm64' if ansible_architecture == 'aarch64' else 'amd64' }}"
+
+# @var yq_download:description: URL to the archive of the release to install
+yq_download: "https://github.com/mikefarah/yq/releases/download/v{{ yq_version }}/yq_linux_{{ yq_arch }}"
+
+...
