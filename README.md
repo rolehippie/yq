@@ -5,7 +5,7 @@
 [![Readme Workflow](https://github.com/rolehippie/yq/actions/workflows/readme.yml/badge.svg)](https://github.com/rolehippie/yq/actions/workflows/readme.yml)
 [![Galaxy Workflow](https://github.com/rolehippie/yq/actions/workflows/galaxy.yml/badge.svg)](https://github.com/rolehippie/yq/actions/workflows/galaxy.yml)
 [![License: Apache-2.0](https://img.shields.io/github/license/rolehippie/yq)](https://github.com/rolehippie/yq/blob/master/LICENSE)
-[![Ansible Role](https://img.shields.io/ansible/role/61891)](https://galaxy.ansible.com/rolehippie/yq)
+[![Ansible Role](https://img.shields.io/badge/role-rolehippie.yq-blue)](https://galaxy.ansible.com/rolehippie/yq)
 
 Ansible role to install yq the jq yaml counterpart.
 
@@ -15,7 +15,6 @@ Building and improving this Ansible role have been sponsored by my current and p
 
 ## Table of content
 
-- [Requirements](#requirements)
 - [Default Variables](#default-variables)
   - [yq_arch](#yq_arch)
   - [yq_download](#yq_download)
@@ -26,11 +25,6 @@ Building and improving this Ansible role have been sponsored by my current and p
 - [Author](#author)
 
 ---
-
-## Requirements
-
-- Minimum Ansible version: `2.10`
-
 
 ## Default Variables
 
