@@ -2,7 +2,7 @@
 ---
 # @var yq_version:description: Version of the release to install
 # renovate: datasource=github-releases depName=mikefarah/yq
-yq_version: 4.40.4
+yq_version: 4.40.5
 
 # @var yq_arch:description: Architecture of the static binary
 yq_arch: "{{ 'arm64' if ansible_architecture == 'aarch64' else 'amd64' }}"
