@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.0.0](https://github.com/rolehippie/yq/compare/v1.3.3...v2.0.0) (2024-02-12)
+
+
+### Features
+
+* drop support for ubuntu 18.04 ([0beec78](https://github.com/rolehippie/yq/commit/0beec780e077ec708b75a4beb38b503823cc4177))
+* used full qualified collection names ([f7d2e67](https://github.com/rolehippie/yq/commit/f7d2e673d4249e3036e603d91acc84beb6af7073))
+
 ## [1.3.3](https://github.com/rolehippie/yq/compare/v1.3.2...v1.3.3) (2023-12-18)
 
 
