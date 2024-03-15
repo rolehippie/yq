@@ -61,7 +61,7 @@ Version of the release to install
 #### Default value
 
 ```YAML
-yq_version: 4.40.5
+yq_version: 4.42.1
 ```
 
 ## Discovered Tags
