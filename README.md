@@ -1,4 +1,4 @@
-# yq
+# workspace
 
 [![Source Code](https://img.shields.io/badge/github-source%20code-blue?logo=github&logoColor=white)](https://github.com/rolehippie/yq)
 [![General Workflow](https://github.com/rolehippie/yq/actions/workflows/general.yml/badge.svg)](https://github.com/rolehippie/yq/actions/workflows/general.yml)
@@ -50,8 +50,8 @@ URL to the archive of the release to install
 #### Default value
 
 ```YAML
-yq_download: https://github.com/mikefarah/yq/releases/download/v{{ yq_version }}/yq_linux_{{
-  yq_arch }}
+yq_download: https://github.com/mikefarah/yq/releases/download/v{{ yq_version 
+  }}/yq_linux_{{ yq_arch }}
 ```
 
 ### yq_version
@@ -61,13 +61,12 @@ Version of the release to install
 #### Default value
 
 ```YAML
-yq_version: 4.45.4
+yq_version: 4.46.1
 ```
 
 ## Discovered Tags
 
 **_yq_**
-
 
 ## Dependencies
 
