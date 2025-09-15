@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.6.1](https://github.com/rolehippie/yq/compare/v2.6.0...v2.6.1) (2025-09-15)
+
+
+### Bugfixes
+
+* **deps:** update dependency mikefarah/yq to v4.47.2 ([#44](https://github.com/rolehippie/yq/issues/44)) ([5403773](https://github.com/rolehippie/yq/commit/540377326abc1cd7650855f549e0e4b5b145e3b6))
+
 ## [2.6.0](https://github.com/rolehippie/yq/compare/v2.5.0...v2.6.0) (2025-07-28)
 
 
