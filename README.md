@@ -1,4 +1,4 @@
-# workspace
+# yq
 
 [![Source Code](https://img.shields.io/badge/github-source%20code-blue?logo=github&logoColor=white)](https://github.com/rolehippie/yq)
 [![General Workflow](https://github.com/rolehippie/yq/actions/workflows/general.yml/badge.svg)](https://github.com/rolehippie/yq/actions/workflows/general.yml)
@@ -40,7 +40,8 @@ Architecture of the static binary
 #### Default value
 
 ```YAML
-yq_arch: "{{ 'arm64' if ansible_architecture == 'aarch64' else 'amd64' }}"
+yq_arch: "{{ 'arm64' if ansible_architecture == 'aarch64' or ansible_architecture
+  == 'arm64' else 'amd64' }}"
 ```
 
 ### yq_download

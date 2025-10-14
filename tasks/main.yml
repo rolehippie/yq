@@ -1,9 +1,9 @@
 ---
 - name: Check existing install
   register: yq_version_check
-  failed_when: False
-  changed_when: False
-  check_mode: False
+  failed_when: false
+  changed_when: false
+  check_mode: false
   ansible.builtin.shell: /usr/bin/yq --version 2>&1
   tags:
     - yq
