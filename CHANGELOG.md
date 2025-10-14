@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.7.0](https://github.com/rolehippie/yq/compare/v2.6.1...v2.7.0) (2025-10-14)
+
+
+### Features
+
+* apply new repo structure and update linting ([c33c5b7](https://github.com/rolehippie/yq/commit/c33c5b79be6a03f7b93c6f282718d289d273e14c))
+* **minor:** update dependency mikefarah/yq to v4.48.1 ([9ff232a](https://github.com/rolehippie/yq/commit/9ff232a853f77bde6104e5d6d9ed34df45deecbf))
+
 ## [2.6.1](https://github.com/rolehippie/yq/compare/v2.6.0...v2.6.1) (2025-09-15)
 
 
