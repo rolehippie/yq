@@ -40,8 +40,7 @@ Architecture of the static binary
 #### Default value
 
 ```YAML
-yq_arch: "{{ 'arm64' if ansible_architecture == 'aarch64' or ansible_architecture
-  == 'arm64' else 'amd64' }}"
+yq_arch: "{{ 'arm64' if ansible_architecture == 'aarch64' or ansible_architecture == 'arm64' else 'amd64' }}"
 ```
 
 ### yq_download
@@ -51,8 +50,7 @@ URL to the archive of the release to install
 #### Default value
 
 ```YAML
-yq_download: https://github.com/mikefarah/yq/releases/download/v{{ yq_version 
-  }}/yq_linux_{{ yq_arch }}
+yq_download: https://github.com/mikefarah/yq/releases/download/v{{ yq_version }}/yq_linux_{{ yq_arch }}
 ```
 
 ### yq_version
