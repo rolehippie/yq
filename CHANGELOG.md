@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.11.0](https://github.com/rolehippie/yq/compare/v2.10.2...v2.11.0) (2026-04-20)
+
+### Dependencies
+
+* **minor:** update dependency mikefarah/yq to v4.53.2 ([#79](https://github.com/rolehippie/yq/issues/79)) ([f344c48](https://github.com/rolehippie/yq/commit/f344c486512005e5dd6e538b821b57c71c58818f))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([ea3faa7](https://github.com/rolehippie/yq/commit/ea3faa7d9e2a18305284dd7db4c10163264c5ea5))
+* **flake:** updated lockfile [skip ci] ([95e5266](https://github.com/rolehippie/yq/commit/95e52663b78fff9c8224dbb40ab7d256702b9774))
+* **flake:** updated lockfile [skip ci] ([6a858a9](https://github.com/rolehippie/yq/commit/6a858a91335e3742416860a904946afa3d0e9703))
+
 ## [2.10.2](https://github.com/rolehippie/yq/compare/v2.10.1...v2.10.2) (2026-03-30)
 
 ### Dependencies
