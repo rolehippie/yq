@@ -1,5 +1,21 @@
 # Changelog
 
+## [2.11.1](https://github.com/rolehippie/yq/compare/v2.11.0...v2.11.1) (2026-06-08)
+
+### Dependencies
+
+* **patch:** update version prefix to v4.53.3 ([#80](https://github.com/rolehippie/yq/issues/80)) ([3c3987e](https://github.com/rolehippie/yq/commit/3c3987e03fb84f26c4cde181fa1bd9b4ad6d1a69))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([edf5cbe](https://github.com/rolehippie/yq/commit/edf5cbe83879bb93f08801ce32c2075d49049550))
+* **flake:** updated lockfile [skip ci] ([d4dc6cd](https://github.com/rolehippie/yq/commit/d4dc6cd9f3778c68ed4b2276fe2866514d8bf386))
+* **flake:** updated lockfile [skip ci] ([04bdbd6](https://github.com/rolehippie/yq/commit/04bdbd6ee65177edc3e7f862d0e883f3c5e219e4))
+* **flake:** updated lockfile [skip ci] ([ac10566](https://github.com/rolehippie/yq/commit/ac105663804476944d5c546613eaf044bfe5fc90))
+* **flake:** updated lockfile [skip ci] ([32f3f5b](https://github.com/rolehippie/yq/commit/32f3f5bf03fe9f21ae240146de94eff78a6e0b6a))
+* **flake:** updated lockfile [skip ci] ([b80c122](https://github.com/rolehippie/yq/commit/b80c122352d01e07e4f31ea971793d05115d5b8a))
+* **flake:** updated lockfile [skip ci] ([d75a03e](https://github.com/rolehippie/yq/commit/d75a03e51f0bb51cd599840d2854986bb0f818bb))
+
 ## [2.11.0](https://github.com/rolehippie/yq/compare/v2.10.2...v2.11.0) (2026-04-20)
 
 ### Dependencies
