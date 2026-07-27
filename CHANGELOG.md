@@ -1,5 +1,7 @@
 # Changelog
 
+## [2.12.0](https://github.com/rolehippie/yq/compare/v2.11.1...v2.12.0) (2026-07-27)
+
 ## [2.11.1](https://github.com/rolehippie/yq/compare/v2.11.0...v2.11.1) (2026-06-08)
 
 ### Dependencies
