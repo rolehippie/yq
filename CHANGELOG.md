@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.14.0](https://github.com/rolehippie/yq/compare/v2.13.0...v2.14.0) (2026-08-17)
+
+### Dependencies
+
+* **minor:** update dependency pipx:ansible-lint to v26.8.0 ([#89](https://github.com/rolehippie/yq/issues/89)) ([e5a76fc](https://github.com/rolehippie/yq/commit/e5a76fc52d9a6203d332eeea5ebac9528c9afe33))
+* **patch:** update dependency pipx:ansible-core to v2.21.3 ([#87](https://github.com/rolehippie/yq/issues/87)) ([8d7817a](https://github.com/rolehippie/yq/commit/8d7817aafa518d66a974ed5de72c71c094d5bdf3))
+* **patch:** update dependency pre-commit to v4.6.2 ([#88](https://github.com/rolehippie/yq/issues/88)) ([75b8e06](https://github.com/rolehippie/yq/commit/75b8e06b65698f186726572851ffde74974e9604))
+
 ## [2.13.0](https://github.com/rolehippie/yq/compare/v2.12.0...v2.13.0) (2026-08-10)
 
 ### Dependencies
