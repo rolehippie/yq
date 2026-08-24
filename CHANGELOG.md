@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.15.0](https://github.com/rolehippie/yq/compare/v2.14.0...v2.15.0) (2026-08-24)
+
+### Dependencies
+
+* **minor:** update dependency pipx:molecule to v26.8.0 ([#90](https://github.com/rolehippie/yq/issues/90)) ([4b24262](https://github.com/rolehippie/yq/commit/4b24262d9555ed0ba321321a87207d57d3819816))
+* **patch:** update dependency mikefarah/yq to v4.53.4 ([#91](https://github.com/rolehippie/yq/issues/91)) ([94c1d31](https://github.com/rolehippie/yq/commit/94c1d318599413fd1365764268a35be2e1230932))
+* **patch:** update dependency mikefarah/yq to v4.53.6 ([#92](https://github.com/rolehippie/yq/issues/92)) ([6eac691](https://github.com/rolehippie/yq/commit/6eac691fb2b7bedef06b5470417e58a6507fd87a))
+
 ## [2.14.0](https://github.com/rolehippie/yq/compare/v2.13.0...v2.14.0) (2026-08-17)
 
 ### Dependencies
