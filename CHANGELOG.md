@@ -1,5 +1,11 @@
 # Changelog
 
+## [2.15.1](https://github.com/rolehippie/yq/compare/v2.15.0...v2.15.1) (2026-08-31)
+
+### Dependencies
+
+* **patch:** update dependency pipx:ansible-doctor to v8.4.1 ([#93](https://github.com/rolehippie/yq/issues/93)) ([5687a89](https://github.com/rolehippie/yq/commit/5687a899a03c0e75940e30344f543f75093217c3))
+
 ## [2.15.0](https://github.com/rolehippie/yq/compare/v2.14.0...v2.15.0) (2026-08-24)
 
 ### Dependencies
