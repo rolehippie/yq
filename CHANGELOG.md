@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.16.0](https://github.com/rolehippie/yq/compare/v2.15.1...v2.16.0) (2026-09-07)
+
+### Features
+
+* add separate requirements for molecule run ([a1b9dad](https://github.com/rolehippie/yq/commit/a1b9dadaa9c035e46f9e5a72987fc239d9982554))
+* use new required facts as attributes ([3423dca](https://github.com/rolehippie/yq/commit/3423dca283e02946c6677015bfb401d88e310658))
+
 ## [2.15.1](https://github.com/rolehippie/yq/compare/v2.15.0...v2.15.1) (2026-08-31)
 
 ### Dependencies
