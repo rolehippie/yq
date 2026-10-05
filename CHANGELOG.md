@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.17.0](https://github.com/rolehippie/yq/compare/v2.16.0...v2.17.0) (2026-10-05)
+
+### Dependencies
+
+* **minor:** update dependency mikefarah/yq to v4.54.1 ([#101](https://github.com/rolehippie/yq/issues/101)) ([63e9b3e](https://github.com/rolehippie/yq/commit/63e9b3e95654d611b7f624cf32ccb63c941ef481))
+* **mise:** update dependency pipx:ansible-core to v2.21.4 ([#94](https://github.com/rolehippie/yq/issues/94)) ([b129869](https://github.com/rolehippie/yq/commit/b1298698fa76772a66be5fc3d84a175a58636b34))
+* **mise:** update dependency pipx:ansible-doctor to v8.4.2 ([#96](https://github.com/rolehippie/yq/issues/96)) ([0ad8b0a](https://github.com/rolehippie/yq/commit/0ad8b0a3310bb80982985e99294f008eecfb8f0a))
+* **mise:** update dependency pipx:ansible-lint to v26.9.0 ([#97](https://github.com/rolehippie/yq/issues/97)) ([5d11d97](https://github.com/rolehippie/yq/commit/5d11d97c76306ac72287417d829323489f358ac2))
+* **mise:** update dependency pipx:molecule to v26.9.0 ([#98](https://github.com/rolehippie/yq/issues/98)) ([d846528](https://github.com/rolehippie/yq/commit/d8465288679e6f0c041eb62fb3177b89f5abc2d8))
+* **mise:** update dependency prek to v0.5.3 ([#95](https://github.com/rolehippie/yq/issues/95)) ([8766626](https://github.com/rolehippie/yq/commit/8766626ea45fccfff40ccaaadab8d959917288ad))
+* **mise:** update dependency prek to v0.5.4 ([#99](https://github.com/rolehippie/yq/issues/99)) ([48cb9ed](https://github.com/rolehippie/yq/commit/48cb9ed78cda0468b86dc1c3379a82a907fc6d8a))
+* **mise:** update dependency prek to v0.5.5 ([#102](https://github.com/rolehippie/yq/issues/102)) ([7980ce8](https://github.com/rolehippie/yq/commit/7980ce8e816fb6ff1d639e28d79bd9f7c408c022))
+
 ## [2.16.0](https://github.com/rolehippie/yq/compare/v2.15.1...v2.16.0) (2026-09-07)
 
 ### Features
