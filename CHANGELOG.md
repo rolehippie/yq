@@ -1,5 +1,29 @@
 # Changelog
 
+## [2.17.1](https://github.com/rolehippie/yq/compare/v2.17.0...v2.17.1) (2026-11-16)
+
+* automated readme update [skip ci] ([bf6e873](https://github.com/rolehippie/yq/commit/bf6e8734fe507213201927c6eb6d5cb17b55f989))
+* automated release update [skip ci] ([4a6fdc6](https://github.com/rolehippie/yq/commit/4a6fdc618059377bab0fbd500cdf1cac574109d5))
+* automated release update [skip ci] ([6327db4](https://github.com/rolehippie/yq/commit/6327db45f2af50bac2f43c15cd3a5f701e958560))
+* automated release update [skip ci] ([15ae8bc](https://github.com/rolehippie/yq/commit/15ae8bc49b729e26622c016c244487ac7b9944d2))
+* automated release update [skip ci] ([e6f2feb](https://github.com/rolehippie/yq/commit/e6f2feb7507f2be1887f43a4e93823f0c3417972))
+* automated release update [skip ci] ([efa8453](https://github.com/rolehippie/yq/commit/efa84536fc00a30de8d932ee50f60d4911a93984))
+
+### Dependencies
+
+* **mise:** update dependency pipx:ansible-core to v2.21.5 ([#103](https://github.com/rolehippie/yq/issues/103)) ([5f4af5f](https://github.com/rolehippie/yq/commit/5f4af5fdf593fceaa147fb953ca387d362545458))
+* **mise:** update dependency pipx:ansible-doctor to v8.4.3 ([#104](https://github.com/rolehippie/yq/issues/104)) ([fda8460](https://github.com/rolehippie/yq/commit/fda8460588441b69c81535cb268bf648d74a9ca3))
+* **mise:** update dependency pipx:ansible-doctor to v8.4.4 ([#112](https://github.com/rolehippie/yq/issues/112)) ([c08561a](https://github.com/rolehippie/yq/commit/c08561af6f6a64b239f020c35b6334b2a0bc1c86))
+* **mise:** update dependency pipx:ansible-lint to v26.10.0 ([#105](https://github.com/rolehippie/yq/issues/105)) ([c06706d](https://github.com/rolehippie/yq/commit/c06706d6179c7ad5746244cfcf492f10d5abfd26))
+* **mise:** update dependency pipx:ansible-lint to v26.10.1 ([#107](https://github.com/rolehippie/yq/issues/107)) ([0f11d8d](https://github.com/rolehippie/yq/commit/0f11d8de6de72d2d501a6166961c4fa0a34ef2a8))
+* **mise:** update dependency pipx:molecule to v26.10.0 ([#106](https://github.com/rolehippie/yq/issues/106)) ([4eb05dc](https://github.com/rolehippie/yq/commit/4eb05dcd0a46ded00ccb71cf3ffa2eed26b3ad3d))
+* **mise:** update dependency prek to v0.5.10 ([#113](https://github.com/rolehippie/yq/issues/113)) ([5000e18](https://github.com/rolehippie/yq/commit/5000e18e1bd77cc35fa2b78ec969bce0ad88a5db))
+* **mise:** update dependency prek to v0.5.6 ([#108](https://github.com/rolehippie/yq/issues/108)) ([e4798f0](https://github.com/rolehippie/yq/commit/e4798f05abd1a0898c486ef49cd24c63b23207b3))
+* **mise:** update dependency prek to v0.5.7 ([#109](https://github.com/rolehippie/yq/issues/109)) ([10fec89](https://github.com/rolehippie/yq/commit/10fec89edf28e0e6544a753b239187f10a1eefbc))
+* **mise:** update dependency prek to v0.5.9 ([#111](https://github.com/rolehippie/yq/issues/111)) ([fe62447](https://github.com/rolehippie/yq/commit/fe6244721d81178646c9111cc9969814c5efbb7d))
+* **mise:** update node.js to v26 ([#110](https://github.com/rolehippie/yq/issues/110)) ([3c39288](https://github.com/rolehippie/yq/commit/3c392889d0e8d1db2a058cb53c48022b6da572b4))
+* **patch:** update dependency mikefarah/yq to v4.54.3 ([#114](https://github.com/rolehippie/yq/issues/114)) ([41dc80c](https://github.com/rolehippie/yq/commit/41dc80cea075560993abd8c699c0d297d6c94a3c))
+
 ## [2.17.0](https://github.com/rolehippie/yq/compare/v2.16.0...v2.17.0) (2026-10-05)
 
 ### Dependencies
